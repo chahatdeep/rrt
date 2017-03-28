@@ -26,11 +26,11 @@
  - Input argunments are to be changed in 'problem.m' file
 
 ### Input Arguments:
-##### - Start Node: start_node [x y]
-##### - End Goal: goal [x y]
-##### - r_goal: Radius of the End Goal region
-##### - Epsilon: Minimum Step size for the RRT
--[Change the input data](problem.m)
+- Start Node: start_node [x y]
+- End Goal: goal [x y]
+- r_goal: Radius of the End Goal region
+- Epsilon: Minimum Step size for the RRT
+- [Change the input data](problem.m)
 
 
 Sample Outputs
