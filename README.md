@@ -30,7 +30,17 @@
 ##### - End Goal: goal [x y]
 ##### - r_goal: Radius of the End Goal region
 ##### - Epsilon: Minimum Step size for the RRT
+-[Change the input data](problem.m)
+
 
 Sample Outputs
 =======
-- [Output](Output/p1.png)
+- [Output 1](Output/p1.png)
+- [Output 2](Output/p2.png)
+- [Output 3](Output/p3.png)
+- [Output 4](Output/p4.png)
+- [Output 5](Output/p5.png)
+
+Notes
+=======
+- Tested on MATLAB R2016b, Arch Linux 2017.03.01, Kernel: 4.9.11
