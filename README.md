@@ -1,8 +1,7 @@
-#!/bin/usr/Matlab
-
 # RRT_Algorithm: [Path Planner]
+# Rapidly-Exploring Random Tree
 
-Instructions: 
+#Instructions: 
 1. Run the file RunMe.m in Matlab (R2010b+)
 2. Make sure the files:
 	a. create_map
