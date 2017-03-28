@@ -1,4 +1,4 @@
-# RRT Algorithm: [Path Planner]
+# RRT Algorithm: 
 ## Rapidly-Exploring Random Tree
 
 ## Author: Chahat Deep Singh
