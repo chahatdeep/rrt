@@ -6,7 +6,8 @@
 #### University of Maryland College Park
  -----------------------------------
  
-### Instructions: 
+Instructions:
+============
  - Run the file RunMe.m in Matlab (R2007b+)
  - Make sure the files:
  	(a). create_map (Not required for the RunMe file)
@@ -25,7 +26,8 @@
  - To update the map, run create_map.m and then Run RunMe.m for RRT.
  - Input argunments are to be changed in 'problem.m' file
 
-### Input Arguments:
+Input Arguments:
+================
 - Start Node: start_node [x y]
 - End Goal: goal [x y]
 - r_goal: Radius of the End Goal region
