@@ -1,0 +1,64 @@
+For all problems use the obstacle file called
+"obstacles.txt"
+
+IMPORTANT NOTE: the configuration space is from 0 to 100 in x and
+0 to 100 in y. In other words, using geometric set notation:
+S = [0 100] X [0 100]
+You must constrain your sampling to be from
+within the space S.
+
+
+For each of the following problems you will turn in a 
+graphical representation of the paths that were calculated 
+moving through the workspace (including drawing obstacles).
+
+Don't forget: you also need to include this with your code in a zip file.
+
+
+Here are the problems:
+
+----------------------
+Problem 1:
+
+start (x,y):  [75,85]
+goal region (x,y,radius) = [100 0 20]
+epsilon = 10
+
+
+---------------------
+
+Problem 2:
+
+start (x,y):  [20,10]
+goal region (x,y,radius) = [75 85 10]
+epsilon = 5
+
+
+---------------------
+
+Problem 3:
+
+start (x,y):  [60,60]
+goal region (x,y,radius) = [90 100 20]
+epsilon = 5
+
+
+---------------------
+
+Problem 4:
+
+start (x,y):  [60 80]
+goal region (x,y,radius) = [60 60 5]
+epsilon = 5
+
+
+---------------------
+
+Problem 5:
+
+start (x,y):  [1 99]
+goal region (x,y,radius) = [100 0 20]
+epsilon = 1
+
+
+
