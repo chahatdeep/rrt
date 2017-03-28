@@ -24,7 +24,7 @@
  4. To update the map, run create_map.m and then Run RunMe.m for RRT.
 
 ### Input Arguments: (All in [x,y])
-### Start Node: start_node
-### End Goal: goal
-### r_goal: Radius of the End Goal region
-### Epsilon: Minimum Step size for the RRT
+#### Start Node: start_node
+#### End Goal: goal
+#### r_goal: Radius of the End Goal region
+#### Epsilon: Minimum Step size for the RRT
