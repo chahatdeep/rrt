@@ -1,4 +1,5 @@
-%% Defining all nodes, goal and other properties in space:
+%% Defining all nodes, goal and other properties in space: 
+% Default: Problem 1 (in RunMe.m)
 
 function [start_node, goal, r_goal, epsilon] = problem(problem_no)
 
