@@ -8,7 +8,7 @@
  
 ### Instructions: 
 ================
- 1. Run the file RunMe.m in Matlab (R2007b+)
+ - Run the file RunMe.m in Matlab (R2007b+)
  2. Make sure the files:
  	(a). create_map (Not required for the RunMe file)
  	(b). draw
