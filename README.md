@@ -1,4 +1,4 @@
-# RRT_Algorithm: [Path Planner]
+# RRT Algorithm: [Path Planner]
 # Rapidly-Exploring Random Tree
 
 #Instructions: 
