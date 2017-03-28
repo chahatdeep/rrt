@@ -44,3 +44,7 @@ Sample Outputs
 Notes
 =======
 - Tested on MATLAB R2016b, Arch Linux 2017.03.01, Kernel: 4.9.11
+
+License
+============
+RRT (Rapidly-Exploring Random Trees) using [the MIT license](LICENSE).
