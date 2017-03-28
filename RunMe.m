@@ -27,7 +27,7 @@
 % r_goal: Radius of the End Goal region
 % Epsilon: Minimum Step size for the RRT
 
-% Code begins here:
+% Code begins here:----------------------------------------------------
 
 clc; clear all;
 
