@@ -1,7 +1,7 @@
 # RRT Algorithm: 
 ## Rapidly-Exploring Random Tree
 
-## Author: Chahat Deep Singh
+### Author: Chahat Deep Singh
 ### March 27 2017
 ### University of Maryland College Park
  -----------------------------------
