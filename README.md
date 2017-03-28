@@ -43,6 +43,10 @@ Sample Outputs
 - [Output 4](Output/p4.png)
 - [Output 5](Output/p5.png)
 
+Requirements
+============
+- Matlab R2007b or later.
+
 Notes
 =======
 - Tested on MATLAB R2016b, Arch Linux 2017.03.01, Kernel: 4.9.11
