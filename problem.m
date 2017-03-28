@@ -1,4 +1,4 @@
-%% Defining all nodes, goal and other properties in the space:
+%% Defining all nodes, goal and other properties in space:
 
 function [start_node, goal, r_goal, epsilon] = problem(problem_no)
 
