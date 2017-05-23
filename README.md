@@ -43,7 +43,7 @@ Sample Outputs
 - [Output 4](Output/p4.png)
 - [Output 5](Output/p5.png)
 
-![screenshot of conversion](https://raw.github.com/adam-p/markdown-here/master/store-assets/markdown-here-image1.gimp.png)
+![screenshot of conversion](https://raw.github.com/chahatdeep/rrt/blob/master/Output/p1.png)
 
 
 Requirements
