@@ -43,7 +43,7 @@ Sample Outputs
 - [Output 4](Output/p4.png)
 - [Output 5](Output/p5.png)
 
-![screenshot of conversion](https://raw.githubusercontent.com/chahatdeep/rrt/master/Output/p5.png)
+![RRT Output](https://raw.githubusercontent.com/chahatdeep/rrt/master/Output/p5.png)
 
 
 Requirements
