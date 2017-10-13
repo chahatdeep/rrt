@@ -37,6 +37,7 @@ Input Arguments:
 
 Sample Outputs
 =======
+- <span style="color:blue">some *This is Blue italic.* text</span>
 - <span style="color: green"> Output 1</span>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 - [Output 2](Output/p2.png)
