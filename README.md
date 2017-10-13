@@ -48,7 +48,7 @@ Sample Outputs
 
 Requirements
 ============
-- Matlab R2007b or later.
+- Matlab R2014b or later.
 
 Notes
 =======
