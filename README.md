@@ -37,7 +37,7 @@ Input Arguments:
 
 Sample Outputs
 =======
-- <span style="color: green">[Output 1](Output/p1.png)</span>
+- <span style="color: green"> Output 1</span>
 - [Output 2](Output/p2.png)
 - [Output 3](Output/p3.png)
 - [Output 4](Output/p4.png)
